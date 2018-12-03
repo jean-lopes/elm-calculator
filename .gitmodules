@@ -1,0 +1,3 @@
+[submodule "elm-tree-diagram"]
+	path = elm-tree-diagram
+	url = git@github.com:jean-lopes/elm-tree-diagram.git
