@@ -1,5 +1,7 @@
 # Elm project
 
+Live: https://jean-lopes.github.io/elm-calculator/
+
 ## Getting started
 
 You need to have [Elm](http://elm-lang.org/) 0.18 installed on your machine.
